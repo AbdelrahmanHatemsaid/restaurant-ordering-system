@@ -1,0 +1,1 @@
+public interface Customizable { void addCustomization(String c); String getCustomizations(); }

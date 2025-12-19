@@ -1,0 +1,1 @@
+public interface PriceAdjustable { void increasePrice(double a); void decreasePrice(double a); }

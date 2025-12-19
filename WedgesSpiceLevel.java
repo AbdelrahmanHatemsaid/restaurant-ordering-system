@@ -1,0 +1,1 @@
+public enum WedgesSpiceLevel { MILD, MEDIUM, HOT; }

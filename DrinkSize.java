@@ -1,0 +1,1 @@
+public enum DrinkSize { SMALL(0), MEDIUM(5), LARGE(10); private final int extra; DrinkSize(int e){this.extra=e;} public int getExtraCost(){return extra;} }
